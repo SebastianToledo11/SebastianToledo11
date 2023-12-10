@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+  <h1 align="center">Hi👋, welcome to my github</h1>
+</div>
 <!--
 **SebastianToledo11/SebastianToledo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
