@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">Hi👋, welcome to my github</h1>
 </div>
-<div>
-  <h2>Skills</h2>
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-green">
-</div>
+
+<h2>Skills</h2>
+<img alt="Static Badge" src="https://img.shields.io/badge/spring%20boot-green">
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -17,6 +17,7 @@
 <div>
   <h2>Social Networks</h2>
 </div>
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
